@@ -1,0 +1,32 @@
+_repo: Fenwick-s-Career_12403
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ward, Humphry, Mrs.
+    aliases:
+    - Ward, Mrs. Humphry
+    - Arnold, Mary Augusta
+    - Ward, Mary Augusta Arnold
+    birthdate: 1851
+    deathdate: 1920
+    gutenberg_agent_id: '2629'
+    url: http://www.gutenberg.org/2009/agents/2629
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Augusta_Ward
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12403'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Married people -- England -- Fiction'
+- !lcsh 'Painters -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+- GITenberg
+title: Fenwick's Career
+url: http://www.gutenberg.org/ebooks/12403
